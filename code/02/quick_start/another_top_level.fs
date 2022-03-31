@@ -1,0 +1,1 @@
+(*printfn "Does not work as program.cs is already top level"*)
