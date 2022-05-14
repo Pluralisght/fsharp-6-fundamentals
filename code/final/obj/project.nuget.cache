@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6otiEDuEId5vh0UPW3hLu0IM3hEH22eEeHTXPwDhvZu5R+enw3U3v68nUhVmTYQq6zq8zggDtUVk+rSnLTxAug==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\final\\bank.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.3-beta.22153.3\\fsharp.core.6.0.3-beta.22153.3.nupkg.sha512"
+  ],
+  "logs": []
+}

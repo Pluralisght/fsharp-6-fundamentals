@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gaCi2Jfj8UQS+KPTCDdDu15NoHs4dePkFyBFJQ5UwM5XDWT7n/rZxZGfcZw0maIOI1Z7nPHlO7LvzP5rU0yE7A==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\02\\entry_points_explicit\\entry_points_explicit.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.4-beta.22181.2\\fsharp.core.6.0.4-beta.22181.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+File only
+Goes to console and file

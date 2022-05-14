@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OXQ8i+x+wEZBFtg/Tg43y/uMABLQqQ5FzTO2D1Kk8M3ujikwuA+SQqBxOnkNm8pFr5uvYdAiz7eB9UE+N1ggw==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\default\\default.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.3-beta.22153.3\\fsharp.core.6.0.3-beta.22153.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+C:\Users\mike\temp\obj\Debug\net6.0\temp.fsproj.AssemblyReference.cache
+C:\Users\mike\temp\obj\Debug\net6.0\temp.AssemblyInfoInputs.cache
+C:\Users\mike\temp\obj\Debug\net6.0\temp.AssemblyInfo.fs

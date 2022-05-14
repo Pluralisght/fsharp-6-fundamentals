@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include = "Bank.Domain.fs"/>
+    <Compile Include = "Account.fs" />
+    <Compile Include = "Customer.fs" />
+    <Compile Include = "Program.fs" />
+  </ItemGroup>
+
+</Project>

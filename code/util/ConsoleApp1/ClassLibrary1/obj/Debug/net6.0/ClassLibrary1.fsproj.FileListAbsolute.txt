@@ -1,0 +1,10 @@
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.xml
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.fsproj.AssemblyReference.cache
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.fs
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.xml
+F:\fsharp-6-fundamentals\code\util\ConsoleApp1\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
