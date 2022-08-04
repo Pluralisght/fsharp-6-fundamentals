@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ifwLXsR+u/jS8nicG8Bae/VQCjEncOJPCs6WDjYoExcbaJxr60pS6dOmYrBk640qYbU9k38GnZCCh48UGiTnMg==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\proj\\Finance\\06\\after\\Transactions.App\\Transactions.App.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.4-beta.22181.2\\fsharp.core.6.0.4-beta.22181.2.nupkg.sha512"
+  ],
+  "logs": []
+}

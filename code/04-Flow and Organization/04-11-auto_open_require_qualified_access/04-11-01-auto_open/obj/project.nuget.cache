@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1xq6LYTH8Qt8axGasq4w3O891T6ImpXFegEIAZJ1IG/aBxsDcNZiLtHs0ONKLfNm3Rd5iH49qzMpIFPrvXGdvw==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\04-Flow and Organization\\04-11-auto_open_require_qualified_access\\10-01-auto_open\\04-06-11-auto_open.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.4\\fsharp.core.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

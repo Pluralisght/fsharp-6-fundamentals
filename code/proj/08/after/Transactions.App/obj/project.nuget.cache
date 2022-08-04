@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8v93u4LAdNRkKhLC72FbF9vmsEgf7KvQRyo2+Pz/8s6j3k/FC8SWHOJ4AfW3F5N5sP3z4bIMf4wJViCJaMzSOA==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\proj\\Finance\\08\\after\\Transactions.App\\Transactions.App.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.4-beta.22181.2\\fsharp.core.6.0.4-beta.22181.2.nupkg.sha512",
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.systemtextjson\\0.17.4\\fsharp.systemtextjson.0.17.4.nupkg.sha512",
+    "C:\\Users\\mike\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

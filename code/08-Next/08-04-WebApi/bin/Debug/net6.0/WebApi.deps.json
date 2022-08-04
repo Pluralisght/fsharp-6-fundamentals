@@ -1,0 +1,157 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApi/1.0.0": {
+        "dependencies": {
+          "ExcelProvider": "2.0.0",
+          "FSharp.Core": "6.0.4-beta.22181.2"
+        },
+        "runtime": {
+          "WebApi.dll": {}
+        }
+      },
+      "ExcelDataReader/3.6.0": {
+        "runtime": {
+          "lib/netstandard2.0/ExcelDataReader.dll": {
+            "assemblyVersion": "3.6.0.0",
+            "fileVersion": "3.6.0.0"
+          }
+        }
+      },
+      "ExcelDataReader.DataSet/3.6.0": {
+        "dependencies": {
+          "ExcelDataReader": "3.6.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ExcelDataReader.DataSet.dll": {
+            "assemblyVersion": "3.6.0.0",
+            "fileVersion": "3.6.0.0"
+          }
+        }
+      },
+      "ExcelProvider/2.0.0": {
+        "dependencies": {
+          "ExcelDataReader": "3.6.0",
+          "ExcelDataReader.DataSet": "3.6.0",
+          "FSharp.Core": "6.0.4-beta.22181.2",
+          "System.Text.Encoding.CodePages": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ExcelProvider.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "FSharp.Core/6.0.4-beta.22181.2": {
+        "runtime": {
+          "lib/netstandard2.1/FSharp.Core.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.422.18102"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.1/cs/FSharp.Core.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netstandard2.1/de/FSharp.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netstandard2.1/es/FSharp.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.1/fr/FSharp.Core.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.1/it/FSharp.Core.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netstandard2.1/ja/FSharp.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/netstandard2.1/ko/FSharp.Core.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/netstandard2.1/pl/FSharp.Core.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netstandard2.1/pt-BR/FSharp.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netstandard2.1/ru/FSharp.Core.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netstandard2.1/tr/FSharp.Core.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/netstandard2.1/zh-Hans/FSharp.Core.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/netstandard2.1/zh-Hant/FSharp.Core.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/5.0.0": {},
+      "System.Text.Encoding.CodePages/5.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "5.0.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExcelDataReader/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eXyxTwG7EEWpgQX3juZ2KcndqTqm/ydx9GXS2lUiMJU54U4h5eXdygRtVgINv0t60ezPWEb+lL7uM7Q+wm5BBA==",
+      "path": "exceldatareader/3.6.0",
+      "hashPath": "exceldatareader.3.6.0.nupkg.sha512"
+    },
+    "ExcelDataReader.DataSet/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-miW3sWmPXnLM38YadRIfnhL4W4QZajpS6Q/OqsOpFJU5ct8h+M/fMpbGMm5INtsMP0Y1k0WK0stIfSW3RP31Xg==",
+      "path": "exceldatareader.dataset/3.6.0",
+      "hashPath": "exceldatareader.dataset.3.6.0.nupkg.sha512"
+    },
+    "ExcelProvider/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mqfo3QnW/n2cJTQIcVjkTkj6n70KXPjuQo7MkgGWN9aix+WBqBYMTp0kYIXr89O9SZLBI+oMqO5ZGQHTlYV/xg==",
+      "path": "excelprovider/2.0.0",
+      "hashPath": "excelprovider.2.0.0.nupkg.sha512"
+    },
+    "FSharp.Core/6.0.4-beta.22181.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r2po3cDh7SvAQJAozPxlThH/aReaRMl0W5AqeMBE/pbLcJWoeavYpRWhs5VYdqJynxe9h2sgKvLIXa7zp7QhUw==",
+      "path": "fsharp.core/6.0.4-beta.22181.2",
+      "hashPath": "fsharp.core.6.0.4-beta.22181.2.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VyPlqzH2wavqquTcYpkIIAQ6WdenuKoFN0BdYBbCWsclXacSOHNQn66Gt4z5NBqEYW0FAPm5rlvki9ZiCij5xQ==",
+      "path": "microsoft.netcore.platforms/5.0.0",
+      "hashPath": "microsoft.netcore.platforms.5.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NyscU59xX6Uo91qvhOs2Ccho3AR2TnZPomo1Z0K6YpyztBPM/A5VbkzOO19sy3A3i1TtEnTxA7bCe3Us+r5MWg==",
+      "path": "system.text.encoding.codepages/5.0.0",
+      "hashPath": "system.text.encoding.codepages.5.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+F:\fsharp-6-fundamentals\code\04-Flow and Organization\04-11-auto_open_require_qualified_access\04-11-02-require_qualified_access\obj\Debug\net6.0\04-11-02-require_qualified_access.fsproj.AssemblyReference.cache
+F:\fsharp-6-fundamentals\code\04-Flow and Organization\04-11-auto_open_require_qualified_access\04-11-02-require_qualified_access\obj\Debug\net6.0\04-11-02-require_qualified_access.AssemblyInfoInputs.cache
+F:\fsharp-6-fundamentals\code\04-Flow and Organization\04-11-auto_open_require_qualified_access\04-11-02-require_qualified_access\obj\Debug\net6.0\04-11-02-require_qualified_access.AssemblyInfo.fs

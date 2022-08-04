@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fc8XqkpmBM1jAd7Uukf1a9WD4mrQvK/S3creFMtJznZiaXSFJMukPKUngJVCsgz6ZBeWwnl91wTQgP+ofj8EFQ==",
+  "success": true,
+  "projectFilePath": "z:\\F\\fsharp-6-fundamentals\\code\\04-Flow and Organization\\04-06-modules\\04-06-03-top_level\\04-06-03-top_level_modules.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

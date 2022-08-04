@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Usq8CX+AfaqeRMcxRFAM+lnvItENvTA/YWi3ngyaMLF3pkmqhcqXAosmpUp4uAd1lsT3gXGEblO5WWb6sf8lcw==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\proj\\03\\after\\Transactions.App\\Transactions.App.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.4\\fsharp.core.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

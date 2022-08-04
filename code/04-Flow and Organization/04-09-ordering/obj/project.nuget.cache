@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hm+WKUiDrYorajyWBXcNLtRXPaq+UrS0QQwx+h9PpD8ph/LZIm1/GJ0PLHjZ/Z+57nWLqky6PymulyPVDgMLlQ==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\03-Flow\\ordering\\ordering.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.4-beta.22181.2\\fsharp.core.6.0.4-beta.22181.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\fsharp-6-fundamentals\\code\\04-Flow and Organization\\04-11-auto_open_require_qualified_access\\10-01-auto_open\\04-06-11-auto_open.fsproj": {}
+  },
+  "projects": {
+    "F:\\fsharp-6-fundamentals\\code\\04-Flow and Organization\\04-11-auto_open_require_qualified_access\\10-01-auto_open\\04-06-11-auto_open.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\fsharp-6-fundamentals\\code\\04-Flow and Organization\\04-11-auto_open_require_qualified_access\\10-01-auto_open\\04-06-11-auto_open.fsproj",
+        "projectName": "04-06-11-auto_open",
+        "projectPath": "F:\\fsharp-6-fundamentals\\code\\04-Flow and Organization\\04-11-auto_open_require_qualified_access\\10-01-auto_open\\04-06-11-auto_open.fsproj",
+        "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
+        "outputPath": "F:\\fsharp-6-fundamentals\\code\\04-Flow and Organization\\04-11-auto_open_require_qualified_access\\10-01-auto_open\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\6.0.300\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.4, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

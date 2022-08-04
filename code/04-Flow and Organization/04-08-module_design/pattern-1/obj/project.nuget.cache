@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLxj20F6f0JevmAGAikW9rNai2YHQMZzTuVOrwH023Adsv0ZRQWoBBvj6px9e/7qXMARTyRjz1Y/26o1O/2IkA==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\03-Flow\\module_design\\pattern-1\\pattern-1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.4-beta.22181.2\\fsharp.core.6.0.4-beta.22181.2.nupkg.sha512"
+  ],
+  "logs": []
+}

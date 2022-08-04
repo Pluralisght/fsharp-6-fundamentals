@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BOhZ7ytLn4io1naIHQ5FzpSc+b3HxxOcQDQafI3Fi3/jV2JgGB7xYJJ4AF20j1yLy5p4vlRXAwRv+tfAai/WmA==",
+  "success": true,
+  "projectFilePath": "F:\\fsharp-6-fundamentals\\code\\04-Flow and Organization\\04-06-modules\\04-06-05-multiple_modules_single_file\\04-06-05-multiple_modules_single_file.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mike\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
