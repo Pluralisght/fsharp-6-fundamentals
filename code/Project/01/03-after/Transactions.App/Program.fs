@@ -16,14 +16,8 @@ let main argv =
     
         printfn "%A" action
 
-        balance <- 
-            if action = "d" || action = "w" then
-                let amount = 
-                    Console.WriteLine "Amount: "
-                    Console.ReadLine() |> Decimal.Parse
-                if action = "d" then balance + amount
-                else balance - amount
-            else balance
-
         running <- action <> "x"
+
+    printfn "Bye!"
+    
     0
